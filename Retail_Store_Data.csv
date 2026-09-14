@@ -1,0 +1,6 @@
+Store_ID,City,Monthly_Revenue,Employees,Is_Profitable,Region
+ST101,Bismarck,45000.50,12,True,North
+ST102,Bluefield,28000.00,8,False,South
+ST103,Charleston,52000.75,15,True,East
+ST104,Princeton,19500.20,5,True,West
+ST105,Beckley,34000.00,9,True,Central
