@@ -1,0 +1,6 @@
+Student_ID,Player_Name,Position,Points_Per_Game,Assists_Per_Game,Minutes_Played,Major,Exam_Score,Active_Status
+S01,Alex,Guard,14.2,8.0,34.5,CS,88.5,True
+S02,Blake,Forward,18.5,5.0,31.0,Data_Sci,92.0,True
+S03,Charlie,Center,22.1,12.0,32.2,Math,79.5,False
+S04,Dana,Guard,9.8,3.0,28.4,CS,95.0,True
+S05,Evan,Guard,12.0,9.0,24.0,Data_Sci,84.0,True
