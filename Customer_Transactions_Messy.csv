@@ -1,0 +1,16 @@
+Cust_ID,Name,Age,Signup_Bonus,City,State,Spending_Score,Transaction_Date
+101, Alice Smith ,29,$100.00,Bismarck, ND ,85,2024-01-15
+102,Bob Jones,NaN,150.0,Bluefield,WV,42,2024-01-16
+103,Charlie Brown,42,200.00,Charleston,WV,INVALID,2024-01-17
+104,Dana White,35,NaN,Princeton,WV,78,2024-01-18
+101, Alice Smith ,29,$100.00,Bismarck, ND ,85,2024-01-15
+105,Evan Wright,NaN,50,Beckley,WV,60,2024-01-20
+106,Fiona Gallagher,31,$125.50,Bluefield,WV,91,2024-01-21
+107,George Clark,58,0,Unknown,ND,33,2024-01-22
+108,Hannah Abbott,22,175.0,Charleston,WV,NaN,2024-01-23
+109, Ian Malcolm ,45,$300.00,Princeton,WV,99,2024-01-24
+110,Julia Roberts,38,INVALID,Beckley,WV,67,2024-01-25
+105,Evan Wright,NaN,50,Beckley,WV,60,2024-01-20
+111,Kevin Bacon,50,110.0,Bluefield,WV,55,2024-01-27
+112,Laura Croft,27,$250.00,Bismarck,ND,88,2024-01-28
+113,Michael Scott,41,NaN,Scranton,PA,12,2024-01-29
