@@ -1,0 +1,16 @@
+Movie_ID,Title,Studio,Release_Date,Budget,Domestic_Gross,Rotten_Tomatoes_Score,IMDb_Rating
+M101, Avatar: The Way of Water ,20th Century,2022-12-16,$350.0M,$684.0M,76%,7.6
+M102,Top Gun: Maverick,Paramount,2022-05-27,170.0M,$718.7M,96%,8.3
+M103,Barbie,Warner Bros,2023-07-21,$145.0M,$636.2M,88%,INVALID
+M104,The Super Mario Bros. Movie,Universal,2023-04-05,$100.0M,NaN,59%,7.0
+M101, Avatar: The Way of Water ,20th Century,2022-12-16,$350.0M,$684.0M,76%,7.6
+M105,Oppenheimer,Universal,2023-07-21,100.0M,$329.8M,93%,8.9
+M106,Spider-Man: Across the Spider-Verse,Sony,2023-06-02,$100.0M,$381.3M,95%,8.7
+M107,Guardians of the Galaxy Vol. 3,Disney,2023-05-05,250.0M,$358.9M,82%,7.9
+M108,The Batman,Warner Bros,2022-03-04,$200.0M,369.3M,85%,NaN
+M109, Jurassic World Dominion ,Universal,2022-06-10,$185.0M,$376.0M,29%,5.6
+M110,Black Panther: Wakanda Forever,Disney,2022-11-11,INVALID,$453.8M,84%,6.7
+M105,Oppenheimer,Universal,2023-07-21,100.0M,$329.8M,93%,8.9
+M111,Dune: Part Two,Warner Bros,2024-03-01,$190.0M,$282.1M,92%,8.6
+M112,Inside Out 2,Disney,2024-06-14,$200.0M,$652.9M,91%,7.7
+M113,Deadpool & Wolverine,Disney,2024-07-26,NaN,$621.5M,78%,7.8

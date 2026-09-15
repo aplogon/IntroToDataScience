@@ -1,0 +1,16 @@
+Car_ID,Model,Make,Model_Year,MSRP,Horsepower,Zero_To_Sixty_Sec,Top_Speed_MPH
+C01, Bugatti Chiron Super Sport ,Bugatti,2022,$3800000,1578,2.2,273
+C02,Ferrari SF90 Stradale,Ferrari,2021,$507000,986,2.0,211
+C03,Porsche 911 GT3 RS,Porsche,2023,$223800,518,INVALID,184
+C04,McLaren 750S,McLaren,2024,$324000,NaN,2.7,206
+C01, Bugatti Chiron Super Sport ,Bugatti,2022,$3800000,1578,2.2,273
+C05,Lamborghini Revuelto,Lamborghini,2024,$604000,1001,2.5,217
+C06,Aston Martin Valkyrie,Aston Martin,2022,3500000,1139,2.5,220
+C07,Corvette Z06,Chevrolet,2023,$105300,670,2.6,189
+C08,Koenigsegg Jesko,Koenigsegg,2023,$3000000,1600,NaN,310
+C09, Rimac Nevera ,Rimac,2022,$2200000,1914,1.74,258
+C10,Ford Mustang GTD,Ford,2025,INVALID,800,2.8,190
+C05,Lamborghini Revuelto,Lamborghini,2024,$604000,1001,2.5,217
+C11,Nissan GT-R Nismo,Nissan,2024,$221000,600,2.9,205
+C12,Pagani Utopia,Pagani,2023,$2500000,852,2.9,NaN
+C13,Lexus LFA,Lexus,2012,$375000,552,3.6,202
