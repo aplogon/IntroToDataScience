@@ -1,0 +1,16 @@
+Emp_ID,Emp_Name,Department,Hire_Date,Base_Salary,Stock_Grant,Performance_Rating,Remote_Status
+E101, Alex Rivera ,Engineering,2018-03-15,$145000,$25000,4.8,Remote
+E102,Beatriz Vance,Data Science,2021-06-01,132000,15000,3.9,Hybrid
+E103,Chad Miller,Engineering,2019-11-12,$160000,INVALID,4.2,On-Site
+E104,Diana Prince,Product,2022-01-10,$115000,10000,NaN,Remote
+E101, Alex Rivera ,Engineering,2018-03-15,$145000,$25000,4.8,Remote
+E105,Evan Wright,Data Science,2017-08-22,175000,40000,4.9,Hybrid
+E106,Fiona Gallagher,UX Design,2020-04-05,$105000,$8000,3.5,On-Site
+E107,George Clark,Engineering,2016-02-18,185000,50000,4.7,Remote
+E108,Hannah Abbott,Product,2023-09-01,$98000,NaN,3.2,Hybrid
+E109, Ian Malcolm ,Data Science,2019-05-14,INVALID,$30000,4.6,Remote
+E110,Julia Roberts,UX Design,2021-11-30,$110000,12000,3.8,On-Site
+E105,Evan Wright,Data Science,2017-08-22,175000,40000,4.9,Hybrid
+E111,Kevin Bacon,Engineering,2020-02-10,150000,20000,4.1,Remote
+E112,Laura Croft,Product,2018-10-15,$140000,$22000,4.5,Hybrid
+E113,Michael Scott,Sales,2015-06-01,$95000,NaN,2.8,On-Site
