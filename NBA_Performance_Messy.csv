@@ -1,0 +1,16 @@
+Player_ID,Player_Name,Team,Position,Annual_Salary,Points_Scored,Rebounds,Assists
+N101, Nikola Jokic ,Nuggets,Center,$47600000,26.4,12.4,9.0
+N102,Jamal Murray,Nuggets,Guard,33800000,21.2,4.1,6.5
+N103,Luka Doncic,Mavericks,Guard,$40000000,33.9,9.2,9.8
+N104,Kyrie Irving,Mavericks,Guard,37000000,25.6,5.0,NaN
+N101, Nikola Jokic ,Nuggets,Center,$47600000,26.4,12.4,9.0
+N105,Shai Gilgeous-Alexander,Thunder,Guard,$33300000,30.1,5.5,6.2
+N106,Chet Holmgren,Thunder,Center,10800000,16.5,7.9,2.4
+N107,Jayson Tatum,Celtics,Forward,$32600000,26.9,8.1,4.9
+N108,Jaylen Brown,Celtics,Guard,INVALID,23.0,5.5,3.6
+N109, Anthony Edwards ,Timberwolves,Guard,$13500000,25.9,5.4,5.1
+N110,Karl-Anthony Towns,Timberwolves,Center,$36000000,21.8,8.3,3.0
+N105,Shai Gilgeous-Alexander,Thunder,Guard,$33300000,30.1,5.5,6.2
+N111,Giannis Antetokounmpo,Bucks,Forward,$45600000,30.4,11.5,6.5
+N112,Damian Lillard,Bucks,Guard,$45600000,24.3,4.4,7.0
+N113,LeBron James,Lakers,Forward,NaN,25.7,7.3,8.3

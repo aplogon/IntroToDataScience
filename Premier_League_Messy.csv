@@ -1,0 +1,16 @@
+Player_ID,Player_Name,Club,Position,Base_Weekly_Wages,Goals_Scored,Assists,Minutes_Played
+PL01, Erling Haaland ,Manchester City,Forward,$375000,27,5,2558
+PL02,Kevin De Bruyne,Manchester City,Midfielder,400000,4,10,1228
+PL03,Mohamed Salah,Liverpool,Forward,$350000,18,10,2534
+PL04,Virgil van Dijk,Liverpool,Defender,220000,2,2,NaN
+PL01, Erling Haaland ,Manchester City,Forward,$375000,27,5,2558
+PL05,Bukayo Saka,Arsenal,Forward,$195000,16,9,2581
+PL06,Declan Rice,Arsenal,Midfielder,240000,7,8,2610
+PL07,Bruno Fernandes,Manchester United,Midfielder,$240000,10,8,3020
+PL08,Marcus Rashford,Manchester United,Forward,INVALID,7,2,2005
+PL09, Cole Palmer ,Chelsea,Midfielder,$130000,22,11,2620
+PL10,Nicolas Jackson,Chelsea,Forward,$65000,14,5,2800
+PL05,Bukayo Saka,Arsenal,Forward,$195000,16,9,2581
+PL11,Son Heung-min,Tottenham,Forward,$190000,17,10,2930
+PL12,James Maddison,Tottenham,Midfielder,170000,4,9,2010
+PL13,Ollie Watkins,Aston Villa,Forward,NaN,19,13,3220
