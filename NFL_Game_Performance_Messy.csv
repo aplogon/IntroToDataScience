@@ -1,0 +1,16 @@
+Player_ID,Player_Name,Team,Position,Game_Date,Base_Salary,Passing_Yards,Rushing_Yards,Touchdowns
+P101, Patrick Mahomes ,Chiefs,QB,2024-09-05,$45000000,291,3,1
+P102,Travis Kelce,Chiefs,TE,2024-09-05,14000000,0,0,0
+P103,Isiah Pacheco,Chiefs,RB,2024-09-05,$1200000,0,45,1
+P104,Lamar Jackson,Ravens,QB,2024-09-05,$30000000,273,122,1
+P101, Patrick Mahomes ,Chiefs,QB,2024-09-05,$45000000,291,3,1
+P105,Derrick Henry,Ravens,RB,2024-09-05,10500000,0,46,1
+P106,Zay Flowers,Ravens,WR,2024-09-05,$1400000,0,14,0
+P107,Josh Allen,Bills,QB,2024-09-08,$30000000,232,39,4
+P108,James Cook,Bills,RB,2024-09-08,INVALID,0,71,0
+P109,Keon Coleman,Bills,WR,2024-09-08,$1800000,0,0,0
+P110,Tyreek Hill,Dolphins,WR,2024-09-08,$20000000,0,12,1
+P105,Derrick Henry,Ravens,RB,2024-09-05,10500000,0,46,1
+P111,Tua Tagovailoa,Dolphins,QB,2024-09-08,$21200000,338,11,1
+P112,De'Von Achane,Dolphins,RB,2024-09-08,$1300000,0,24,1
+P113,Jaylen Waddle,Dolphins,WR,2024-09-08,NaN,0,0,0
