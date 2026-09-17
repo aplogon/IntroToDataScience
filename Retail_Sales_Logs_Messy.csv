@@ -1,0 +1,15 @@
+Log_ID,Store_Region,Department,Sales_Rep,Date,Gross_Revenue,Units_Sold
+L101, North ,Electronics,Alice Smith,2024-10-01,$4500.00,12
+L102,South,Apparel,Bob Jones,2024-10-01,2800.00,18
+L103,East,Electronics,Charlie Brown,2024-10-01,$5200.50,15
+L104,West,Home & Garden,Dana White,2024-10-01,$1950.00,8
+L101, North ,Electronics,Alice Smith,2024-10-01,$4500.00,12
+L105,North,Apparel,Evan Wright,2024-10-02,3400.00,22
+L106,South,Electronics,Fiona Gallagher,2024-10-02,$4100.00,11
+L107,East,Home & Garden,George Clark,2024-10-02,INVALID,14
+L108,West,Apparel,Hannah Abbott,2024-10-02,$2900.00,19
+L109, North ,Home & Garden,Ian Malcolm,2024-10-03,3100.00,NaN
+L110,South,Apparel,Julia Roberts,2024-10-03,$2200.00,16
+L111,East,Electronics,Kevin Bacon,2024-10-03,4800.00,13
+L112,West,Electronics,Laura Croft,2024-10-03,$5100.00,17
+L113,North,Apparel,Michael Scott,2024-10-03,NaN,9
