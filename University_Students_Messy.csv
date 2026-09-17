@@ -1,0 +1,11 @@
+Student_ID,Student_Name,Major,Enrollment_Year,GPA
+S101, Alex Rivera ,Computer Science,2022,3.85
+S102,Beatriz Vance,Data Science,2021,3.92
+S103,Chad Miller,Mathematics,2023,3.40
+S104,Diana Prince,Computer Science,2020,3.75
+S101, Alex Rivera ,Computer Science,2022,3.85
+S105,Evan Wright,Data Science,2021,3.15
+S106,Fiona Gallagher,Cybersecurity,2022,NaN
+S107,George Clark,Mathematics,2019,3.60
+S108,Hannah Abbott,Computer Science,2023,3.90
+S109, Ian Malcolm ,Data Science,2020,3.55
