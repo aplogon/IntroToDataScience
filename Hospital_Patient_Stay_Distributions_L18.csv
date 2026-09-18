@@ -1,0 +1,16 @@
+Patient_ID,Department,Admission_Type,Length_Of_Stay_Days,Total_Cost_Dollars,Readmitted_30Days
+P801,Cardiology,Emergency,5.5,18500.00,True
+P802,Orthopedics,Elective,2.1,8200.00,False
+P803,Neurology,Emergency,12.4,34100.00,True
+P804,Pediatrics,Elective,1.8,4500.00,False
+P805,Cardiology,Elective,3.2,12800.00,False
+P806,Orthopedics,Emergency,7.8,22400.00,True
+P807,Neurology,Elective,4.1,15200.00,False
+P808,Pediatrics,Emergency,3.5,9100.00,False
+P809,Cardiology,Emergency,14.2,42000.00,True
+P810,Orthopedics,Elective,2.8,9600.00,False
+P811,Neurology,Emergency,8.9,27500.00,True
+P812,Pediatrics,Elective,1.2,3800.00,False
+P813,Cardiology,Emergency,6.1,19800.00,False
+P814,Orthopedics,Emergency,9.4,26100.00,True
+P815,Neurology,Elective,5.0,16800.00,False

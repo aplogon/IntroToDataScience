@@ -1,0 +1,13 @@
+Emp_ID,Job_Role,Experience_Level,Annual_Salary_Thousands,Performance_Score
+E101,Data Scientist,Senior,145.0,92
+E102,Software Engineer,Mid,115.0,85
+E103,Data Scientist,Mid,125.0,88
+E104,Cloud Architect,Senior,165.0,95
+E105,Software Engineer,Junior,82.0,78
+E106,Data Scientist,Junior,95.0,81
+E107,Cloud Architect,Mid,138.0,89
+E108,Software Engineer,Senior,150.0,91
+E109,Data Scientist,Senior,158.0,96
+E110,Cloud Architect,Junior,102.0,82
+E111,Software Engineer,Mid,120.0,86
+E112,Data Scientist,Mid,130.0,90
