@@ -1,0 +1,13 @@
+Log_ID,Store_Region,Satisfaction_Score,Wait_Time_Minutes,Return_Customer
+L101,North,8.5,4.2,True
+L102,South,6.2,12.5,False
+L103,East,9.1,2.1,True
+L104,West,4.5,18.0,False
+L105,North,7.8,6.5,True
+L106,South,5.5,15.2,False
+L107,East,8.9,3.0,True
+L108,West,6.0,11.8,True
+L109,North,9.4,1.8,True
+L110,South,7.1,8.4,True
+L111,East,9.8,1.2,True
+L112,West,5.0,14.5,False
