@@ -1,0 +1,11 @@
+Patient_ID,Patient_Name,Age,Gender,Admission_Date,Primary_Diagnosis
+P101, Alex Rivera ,45,M,2024-01-15,Cardiology
+P102,Beatriz Vance,62,F,2024-02-01,Orthopedics
+P103,Chad Miller,28,M,2024-01-20,Neurology
+P104,Diana Prince,71,F,2024-03-05,Cardiology
+P101, Alex Rivera ,45,M,2024-01-15,Cardiology
+P105,Evan Wright,54,M,2024-02-18,Orthopedics
+P106,Fiona Gallagher,NaN,F,2024-01-10,Neurology
+P107,George Clark,38,M,2024-03-12,Cardiology
+P108,Hannah Abbott,66,F,2024-02-25,Orthopedics
+P109, Ian Malcolm ,50,M,2024-01-30,Neurology

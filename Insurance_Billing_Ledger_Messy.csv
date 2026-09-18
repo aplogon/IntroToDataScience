@@ -1,0 +1,9 @@
+Chart_ID,Total_Billed_Cost,Insurance_Coverage_Pct,Days_Hospitalized,Is_Readmitted
+P101,$45000.00,80%,5,False
+P102,62000.00,85%,8,True
+P103,$18500.00,70%,3,False
+P104,$89000.00,90%,12,True
+P105,34000.00,INVALID,4,False
+P106,$27000.00,75%,NaN,False
+P107,51000.00,80%,6,True
+P110,$42000.00,85%,5,False
