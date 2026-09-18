@@ -1,0 +1,15 @@
+Visit_ID,Hospital_Region,Department,Attending_Physician,Visit_Date,Billed_Amount,Length_Of_Stay_Days
+V101, North ,Emergency,Dr. Adams,2024-11-01,$3500.00,2
+V102,South,Cardiology,Dr. Baker,2024-11-01,5800.00,4
+V103,East,Emergency,Dr. Clark,2024-11-01,$4200.50,3
+V104,West,Pediatrics,Dr. Davis,2024-11-01,$1950.00,1
+V101, North ,Emergency,Dr. Adams,2024-11-01,$3500.00,2
+V105,North,Cardiology,Dr. Evans,2024-11-02,6400.00,5
+V106,South,Emergency,Dr. Frank,2024-11-02,$3100.00,2
+V107,East,Pediatrics,Dr. Grace,2024-11-02,INVALID,1
+V108,West,Cardiology,Dr. Hayes,2024-11-02,$4900.00,3
+V109, North ,Pediatrics,Dr. Ivy,2024-11-03,2100.00,NaN
+V110,South,Cardiology,Dr. Jones,2024-11-03,$5200.00,4
+V111,East,Emergency,Dr. King,2024-11-03,3800.00,2
+V112,West,Emergency,Dr. Lopez,2024-11-03,$4100.00,3
+V113,North,Cardiology,Dr. Miller,2024-11-03,NaN,6
