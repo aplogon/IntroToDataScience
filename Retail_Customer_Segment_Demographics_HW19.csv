@@ -1,0 +1,13 @@
+Customer_ID,Membership_Tier,Primary_Channel,Payment_Method,Satisfaction_Rating,Annual_Spend_Dollars
+C701,Gold,Online App,Credit Card,Very Satisfied,4800.00
+C702,Silver,In-Store,Debit Card,Satisfied,1950.00
+C703,Bronze,In-Store,Cash,Neutral,720.00
+C704,Gold,Online App,Credit Card,Very Satisfied,5300.00
+C705,Platinum,Online App,Credit Card,Very Satisfied,8100.00
+C706,Silver,In-Store,Mobile Pay,Satisfied,2250.00
+C707,Bronze,In-Store,Debit Card,Unsatisfied,480.00
+C708,Gold,Online App,Credit Card,Satisfied,4100.00
+C709,Platinum,Online App,Credit Card,Very Satisfied,9200.00
+C710,Silver,In-Store,Mobile Pay,Neutral,1750.00
+C711,Bronze,In-Store,Cash,Unsatisfied,320.00
+C712,Gold,Online App,Credit Card,Very Satisfied,4650.00
