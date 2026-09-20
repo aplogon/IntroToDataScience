@@ -1,0 +1,11 @@
+Employee_ID,Department,Experience_Tier,Base_Salary_Thousands,Bonus_Pct
+T901,Engineering,Senior,165.0,18.5
+T902,Data Science,Mid,135.0,14.0
+T903,Product Management,Senior,155.0,16.5
+T904,Engineering,Junior,92.0,8.5
+T905,Data Science,Senior,172.0,20.0
+T906,Product Management,Mid,128.0,12.5
+T907,Engineering,Mid,138.0,15.0
+T908,Data Science,Junior,98.0,9.0
+T909,Product Management,Junior,88.0,7.5
+T910,Engineering,Senior,175.0,21.0

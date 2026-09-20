@@ -1,0 +1,13 @@
+Patient_ID,Triage_Level,Wait_Time_Minutes,Treatment_Cost_Dollars,Admitted_To_ICU
+E501,Level 1 - Critical,12.5,8500.00,True
+E502,Level 3 - Urgent,45.0,2100.00,False
+E503,Level 2 - Emergent,22.0,5400.00,True
+E504,Level 4 - Less Urgent,85.0,950.00,False
+E505,Level 3 - Urgent,52.0,1800.00,False
+E506,Level 1 - Critical,8.0,12400.00,True
+E507,Level 2 - Emergent,18.5,6100.00,False
+E508,Level 4 - Less Urgent,95.0,820.00,False
+E509,Level 3 - Urgent,41.0,2300.00,False
+E510,Level 2 - Emergent,28.0,4900.00,True
+E511,Level 1 - Critical,5.5,14500.00,True
+E512,Level 4 - Less Urgent,110.0,750.00,False
