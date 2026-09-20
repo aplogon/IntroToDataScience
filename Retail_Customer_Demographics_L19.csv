@@ -1,0 +1,13 @@
+Customer_ID,Membership_Tier,Preferred_Category,Payment_Method,Satisfaction_Rating,Annual_Spend_Dollars
+C301,Gold,Electronics,Credit Card,Very Satisfied,4200.00
+C302,Silver,Apparel,Debit Card,Satisfied,1800.00
+C303,Bronze,Home & Kitchen,Cash,Neutral,650.00
+C304,Gold,Electronics,Credit Card,Very Satisfied,5100.00
+C305,Platinum,Beauty,Credit Card,Very Satisfied,7800.00
+C306,Silver,Electronics,Mobile Pay,Satisfied,2100.00
+C307,Bronze,Apparel,Debit Card,Unsatisfied,450.00
+C308,Gold,Home & Kitchen,Credit Card,Satisfied,3900.00
+C309,Platinum,Electronics,Credit Card,Very Satisfied,8900.00
+C310,Silver,Beauty,Mobile Pay,Neutral,1600.00
+C311,Bronze,Electronics,Cash,Unsatisfied,300.00
+C312,Gold,Apparel,Credit Card,Very Satisfied,4500.00
