@@ -1,0 +1,11 @@
+Employee_ID,Department,Base_Salary_Thousands,Experience_Years,Performance_Score
+E901,Data Science,125.0,4,88
+E902,Engineering,130.0,5,91
+E903,Data Science,122.0,3,85
+E904,Product,115.0,4,82
+E905,Engineering,135.0,6,94
+E906,Data Science,128.0,5,89
+E907,Product,118.0,3,84
+E908,Executive,450.0,18,98
+E909,Engineering,132.0,5,92
+E910,Data Science,126.0,4,87

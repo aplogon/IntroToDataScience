@@ -1,0 +1,13 @@
+Patient_ID,Primary_Diagnosis,Stay_Days,Total_Cost_Dollars,Readmitted_30Days
+P801,Cardiology,3,4500.00,False
+P802,Cardiology,4,5200.00,False
+P803,Neurology,14,28500.00,True
+P804,Orthopedics,2,3100.00,False
+P805,Cardiology,3,4800.00,False
+P806,Neurology,18,34000.00,True
+P807,Orthopedics,5,7200.00,False
+P808,Cardiology,3,4600.00,False
+P809,Neurology,2,3300.00,False
+P810,Orthopedics,4,5900.00,False
+P811,Cardiology,32,78000.00,True
+P812,Neurology,5,8100.00,False
