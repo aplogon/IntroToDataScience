@@ -1,0 +1,6 @@
+Athlete_ID,Full_Name,Social_Security_Hash,Email_Address,Avg_Heart_Rate,Sleep_Quality_Score,Injury_Risk_Index
+A501,Jordan Reed,SSN-9012,jordan.reed@athletics.org,152.4,88.0,0.12
+A502,Taylor Swift,SSN-3411,taylor.swift@athletics.org,168.1,62.5,0.45
+A503,Alex Morgan,SSN-8821,alex.morgan@athletics.org,148.9,91.2,0.08
+A504,Sam Darnold,SSN-1049,sam.darnold@athletics.org,174.5,58.0,0.65
+A505,Morgan Pressel,SSN-5592,morgan.pressel@athletics.org,155.0,84.0,0.18

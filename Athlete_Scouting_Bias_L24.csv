@@ -1,0 +1,16 @@
+Player_ID,Player_Name,Scout_Region,Scout_Evaluation_Score,Pro_Contract_Signed,Socioeconomic_Tier
+P101,Marcus Vance,Metro Suburban,88.5,1,High
+P102,Trey Washington,Rural South,72.0,0,Low
+P103,Liam O'Connor,Metro Suburban,91.0,1,High
+P104,Devon Jackson,Rural South,68.5,0,Low
+P105,Caden Smith,Metro Suburban,85.0,1,High
+P106,Mateo Hernandez,Rural South,74.5,0,Low
+P107,Ethan Miller,Metro Suburban,89.0,1,High
+P108,Darius Brown,Rural South,65.0,0,Low
+P109,Noah Williams,Metro Suburban,94.0,1,High
+P110,Jamal Reed,Rural South,71.0,0,Low
+P111,Lucas Taylor,Metro Suburban,82.5,1,High
+P112,Antoine Dubois,International,79.0,0,Medium
+P113,Carlos Silva,International,81.5,1,Medium
+P114,Kobe Bryant Jr,Metro Suburban,96.0,1,High
+P115,Bryce Green,Rural South,69.0,0,Low
