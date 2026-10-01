@@ -1,0 +1,16 @@
+Candidate_ID,Applicant_Name,University_Tier,Technical_Test_Score,Hired_Status,Socioeconomic_Background
+C801,Ethan Vance,Top Tier Metro,92.5,1,High
+C802,Marcus Wright,Regional State,74.0,0,Low
+C803,Chloe Bennett,Top Tier Metro,88.0,1,High
+C804,Devon Smith,Regional State,71.5,0,Low
+C805,Lucas Hayes,Top Tier Metro,95.0,1,High
+C806,Mateo Gomez,Regional State,76.5,0,Low
+C807,Oliver King,Top Tier Metro,86.0,1,High
+C808,Darius Hill,Regional State,68.0,0,Low
+C809,Noah Miller,Top Tier Metro,91.0,1,High
+C8010,Jamal Taylor,Regional State,73.0,0,Low
+C811,Liam Davis,Top Tier Metro,84.5,1,High
+C812,Carlos Rossi,International,80.0,0,Medium
+C813,Ananya Patel,International,83.5,1,Medium
+C814,Benjamin Scott,Top Tier Metro,97.0,1,High
+C815,Xavier Brooks,Regional State,70.0,0,Low

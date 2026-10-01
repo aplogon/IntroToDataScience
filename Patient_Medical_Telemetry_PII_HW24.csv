@@ -1,0 +1,6 @@
+Patient_ID,Full_Name,Government_ID_Hash,Primary_Email,Glucose_Level_MgDl,Blood_Pressure_Systolic,Readmission_Risk_Index
+P901,Sarah Jenkins,GOV-1029,sarah.j@healthorg.com,118.4,122.0,0.15
+P902,Robert Chen,GOV-4481,robert.c@healthorg.com,142.1,138.5,0.48
+P903,Emily Watson,GOV-7723,emily.w@healthorg.com,105.9,115.2,0.06
+P904,Michael Chang,GOV-3310,michael.c@healthorg.com,168.5,145.0,0.72
+P905,Jessica Taylor,GOV-8891,jessica.t@healthorg.com,124.0,128.0,0.22
