@@ -1,0 +1,13 @@
+Patient_ID,Patient_Name,Age,Num_Prior_Admissions,Daily_Medication_Count,Length_Of_Stay_Days,Readmission_Tier
+PT701,Elena Rostova,68,4,12,8.5,High Risk
+PT702,Marcus Vance,42,1,4,2.0,Low Risk
+PT703,Chloe Bennett,55,2,7,4.5,Moderate Risk
+PT704,Devon Smith,38,0,2,1.5,Low Risk
+PT705,Lucas Hayes,72,5,15,10.0,High Risk
+PT706,Mateo Gomez,48,1,5,3.0,Low Risk
+PT707,Oliver King,61,3,9,6.0,Moderate Risk
+PT708,Darius Hill,29,0,1,1.0,Low Risk
+PT709,Noah Miller,65,4,11,7.5,High Risk
+PT710,Jamal Taylor,50,2,6,3.5,Moderate Risk
+PT711,Liam Davis,31,0,3,2.0,Low Risk
+PT712,Carlos Rossi,58,3,8,5.0,Moderate Risk
