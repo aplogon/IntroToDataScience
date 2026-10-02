@@ -1,0 +1,13 @@
+Player_ID,Player_Name,Position,Points_Per_Game,Rebounds_Per_Game,Assists_Per_Game,Minutes_Per_Game,Contract_Tier
+P101,Marcus Vance,Guard,24.5,4.2,6.8,34.5,Max
+P102,Trey Washington,Forward,12.0,8.5,1.5,26.0,Mid
+P103,Liam O'Connor,Center,8.5,10.2,0.8,22.5,Rookie
+P104,Devon Jackson,Guard,28.2,5.1,7.5,36.0,Max
+P105,Caden Smith,Forward,16.8,6.4,3.2,30.0,Mid
+P106,Mateo Hernandez,Center,14.5,11.0,1.2,28.5,Mid
+P107,Ethan Miller,Guard,6.2,1.8,2.1,14.0,Rookie
+P108,Darius Brown,Forward,22.0,7.1,4.5,33.0,Max
+P109,Noah Williams,Center,19.5,12.4,2.0,32.0,Max
+P110,Jamal Reed,Guard,9.8,2.4,3.8,18.5,Rookie
+P111,Lucas Taylor,Forward,7.5,4.0,1.1,16.0,Rookie
+P112,Antoine Dubois,Center,11.2,7.8,1.0,24.0,Mid
