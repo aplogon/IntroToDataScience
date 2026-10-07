@@ -1,0 +1,9 @@
+Tracking_Code,Freight_Cost,Customs_Tariff_Pct,Weight_Tons,Is_Delayed
+S501,$12500.00,12%,8.5,False
+S502,8400.00,5%,14.0,True
+S503,$21000.00,15%,6.2,False
+S504,$45000.00,20%,22.1,True
+S505,18200.00,INVALID,11.0,False
+S506,$9600.00,8%,NaN,False
+S507,31000.00,12%,18.4,True
+S510,$15500.00,10%,9.0,False

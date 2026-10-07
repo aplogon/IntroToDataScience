@@ -1,0 +1,5 @@
+Facility_Code,Facility_Name,Hub_Region,Warehouse_Capacity_SqFt
+FAC01,North Atlantic Logistics Hub,North,250000
+FAC02,Southern Transit Depot,South,180000
+FAC03,Western Fulfillment Center,West,320000
+FAC04,Metro Freight Terminal,East,150000

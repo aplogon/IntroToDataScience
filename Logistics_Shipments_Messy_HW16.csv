@@ -1,0 +1,11 @@
+Shipment_ID,Client_Name,Origin_Region,Shipment_Date,Cargo_Category,Priority_Level,Facility_ID
+S501,Acme Corp,North,2024-03-01,Electronics,Express,FAC01
+S502,Globex Inc,South,2024-03-05,Apparel,Standard,FAC02
+S503,Initech LLC,East,2024-03-10,Industrial,Express,FAC01
+S504,Umbrella Corp,West,2024-03-12,Electronics,Overnight,FAC03
+S501,Acme Corp,North,2024-03-01,Electronics,Express,FAC01
+S505,Stark Ind,North,2024-03-15,Industrial,Standard,FAC02
+S506,Wayne Ent,South,2024-03-18,Apparel,Standard,FAC03
+S507,Cyberdyne Systems,East,2024-03-20,Electronics,Express,FAC01
+S508,Soylent Corp,West,2024-03-22,Industrial,Standard,FAC02
+S509,Massive Dynamic,North,2024-03-25,Apparel,Overnight,FAC03
