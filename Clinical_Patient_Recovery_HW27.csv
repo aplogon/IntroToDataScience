@@ -1,0 +1,17 @@
+Patient_ID,Patient_Name,Age,Therapy_Sessions,Pain_Score,Recovery_Days
+PT301,Hannah Scott,34,4,8.5,50.0
+PT302,Lucas Rivera,45,6,7.8,46.0
+PT303,Maya Lin,29,8,8.0,46.3
+PT304,Caleb Wright,52,10,7.2,41.6
+PT305,Jordan Vance,61,12,6.8,40.7
+PT306,Elena Rostova,38,14,6.5,37.5
+PT307,Devon Miller,49,16,5.9,36.7
+PT308,Chloe Bennett,28,18,5.5,33.1
+PT309,Trey Washington,55,20,5.0,31.8
+PT310,Sophie Clark,42,22,4.8,28.1
+PT311,Mateo Gomez,36,24,4.2,27.4
+PT312,Oliver King,64,26,3.8,25.6
+PT313,Darius Hill,47,28,3.5,21.8
+PT314,Noah Taylor,58,30,3.0,20.6
+PT315,Aria Montgomery,31,32,2.5,17.3
+PT316,Ethan Hunt,67,34,2.0,16.3
