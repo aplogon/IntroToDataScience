@@ -1,0 +1,21 @@
+Transaction_ID,Account_Name,Transaction_Amount,Foreign_Flag,Merchant_Risk_Score,Actual_Fraud,Model_Fraud_Prob
+TXN801,Apex Global,45.2,0,15,0,0.04
+TXN802,Beacon Logistics,82.5,0,20,0,0.07
+TXN803,Crestview Media,115.0,0,22,0,0.11
+TXN804,Delta Dynamics,160.75,0,28,0,0.14
+TXN805,Echo Energy,210.0,0,30,0,0.19
+TXN806,Falcon Freight,280.5,0,35,0,0.23
+TXN807,Giga Systems,340.0,0,42,0,0.27
+TXN808,Horizon Health,420.0,1,50,0,0.35
+TXN809,Ironclad Security,510.5,0,58,0,0.41
+TXN810,Jupiter Retail,680.0,1,65,0,0.46
+TXN811,Kestrel Capital,750.25,1,72,0,0.52
+TXN812,Luminary Tech,890.0,1,78,0,0.58
+TXN813,Magellan Marine,580.0,0,55,0,0.38
+TXN814,Nexus Networks,1250.0,1,80,0,0.62
+TXN815,Orion Optics,1480.0,1,84,1,0.48
+TXN816,Pinnacle Paper,1850.5,1,88,1,0.69
+TXN817,Quantum Quick,2100.0,1,92,1,0.76
+TXN818,Radiant Robotics,2450.0,1,95,1,0.84
+TXN819,Summit Solar,2800.0,1,98,1,0.91
+TXN820,Titan Tools,3400.0,1,99,1,0.95

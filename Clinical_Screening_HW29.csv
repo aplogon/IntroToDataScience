@@ -1,0 +1,21 @@
+Patient_ID,Patient_Name,Age,Systolic_BP,Biomarker_Score,Actual_Condition,Model_Risk_Prob
+PT701,Hannah Scott,32,114,18,0,0.06
+PT702,Lucas Rivera,38,118,22,0,0.09
+PT703,Maya Lin,42,122,25,0,0.12
+PT704,Caleb Wright,45,125,29,0,0.16
+PT705,Jordan Vance,48,128,34,0,0.2
+PT706,Elena Rostova,51,132,38,0,0.25
+PT707,Devon Miller,54,135,42,0,0.31
+PT708,Chloe Bennett,57,140,48,0,0.38
+PT709,Trey Washington,60,144,55,0,0.44
+PT710,Sophie Clark,62,148,62,0,0.49
+PT711,Mateo Gomez,65,152,68,0,0.55
+PT712,Oliver King,68,156,74,0,0.61
+PT713,Darius Hill,50,138,52,1,0.42
+PT714,Noah Taylor,58,150,70,1,0.65
+PT715,Aria Montgomery,63,158,78,1,0.72
+PT716,Ethan Hunt,67,162,85,1,0.79
+PT717,Marcus Vance,71,166,92,1,0.85
+PT718,Liam O'Connor,74,170,98,1,0.89
+PT719,Devon Jackson,76,175,105,1,0.93
+PT720,Caden Smith,80,180,112,1,0.96

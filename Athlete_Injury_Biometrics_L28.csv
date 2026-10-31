@@ -1,0 +1,17 @@
+Player_ID,Player_Name,Position,Acute_Chronic_Ratio,Avg_Sleep_Hours,Sprint_Meters,High_Injury_Risk
+P501,Devon Smith,Guard,0.85,8.5,320,0
+P502,Liam O'Connor,Center,0.92,8.2,380,0
+P503,Mateo Gomez,Forward,1.05,7.8,410,0
+P504,Jamal Reed,Guard,1.10,8.0,450,0
+P505,Ethan Miller,Forward,1.18,7.5,520,0
+P506,Trey Washington,Forward,1.25,7.2,560,0
+P507,Caden Smith,Guard,1.32,7.0,610,0
+P508,Darius Brown,Forward,1.45,6.8,680,0
+P509,Antoine Dubois,Center,1.52,6.5,740,1
+P510,Lucas Taylor,Guard,1.60,6.4,790,1
+P511,Chloe Bennett,Guard,1.68,6.0,840,1
+P512,Marcus Vance,Guard,1.75,5.8,890,1
+P513,Noah Williams,Center,1.82,5.5,930,1
+P514,Kobe Scott,Forward,1.90,5.4,980,1
+P515,Jaylen Brooks,Guard,1.98,5.2,1040,1
+P516,Zion Alexander,Forward,2.05,5.0,1100,1

@@ -1,0 +1,17 @@
+Patient_ID,Patient_Name,Age,Resting_BP,Cholesterol_MgDl,Max_Heart_Rate,Cardiac_Risk_Flag
+PT501,Hannah Scott,32,112,182,178,0
+PT502,Lucas Rivera,36,118,190,172,0
+PT503,Maya Lin,40,122,198,168,0
+PT504,Caleb Wright,44,126,205,165,0
+PT505,Jordan Vance,47,130,212,160,0
+PT506,Elena Rostova,50,134,220,155,0
+PT507,Devon Miller,53,138,228,150,0
+PT508,Chloe Bennett,56,142,235,148,0
+PT509,Trey Washington,59,146,242,142,1
+PT510,Sophie Clark,62,150,250,138,1
+PT511,Mateo Gomez,65,155,258,132,1
+PT512,Oliver King,68,160,265,128,1
+PT513,Darius Hill,70,164,272,124,1
+PT514,Noah Taylor,72,168,280,120,1
+PT515,Aria Montgomery,75,172,288,115,1
+PT516,Ethan Hunt,78,178,295,110,1

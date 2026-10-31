@@ -1,0 +1,16 @@
+Applicant_ID,Applicant_Name,Credit_Score,Debt_To_Income_Ratio,Annual_Income_Thousands,Loan_Default_Flag
+APP601,Marcus Wright,550,0.58,38,1
+APP602,Liam Davis,580,0.54,42,1
+APP603,Chloe Davis,605,0.5,45,1
+APP604,Devon Jackson,620,0.46,50,1
+APP605,Mateo Hernandez,640,0.44,55,1
+APP606,Caden Smith,660,0.4,62,1
+APP607,Darius Brown,680,0.38,68,1
+APP608,Ethan Miller,700,0.34,75,0
+APP609,Lucas Taylor,715,0.31,82,0
+APP610,Antoine Dubois,735,0.28,90,0
+APP611,Noah Williams,755,0.25,98,0
+APP612,Kobe Bryant Jr,770,0.22,108,0
+APP613,Jaylen Brooks,790,0.19,118,0
+APP614,Zion Alexander,805,0.17,128,0
+APP615,Tariq Simmons,820,0.14,140,0
